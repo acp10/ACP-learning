@@ -6,7 +6,6 @@ public class CalculatorProject {
 		System.out.println("===========================");
 		System.out.println("Enter Two  Number for Basic Airthmetic opertaion");
 		Scanner scan = new Scanner(System.in);
-<<<<<<< HEAD
         int a = scan.nextInt();
         int b = scan.nextInt();
         System.out.println(a);
