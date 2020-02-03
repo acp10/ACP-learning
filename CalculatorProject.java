@@ -15,7 +15,5 @@ public class CalculatorProject {
 
 		int a = scan.nextInt();
 		int b = scan.nextInt();
-		System.out.println(a);
-		System.out.println(b);
-		pow(a, b);
+		
 }
